@@ -1,0 +1,17 @@
+/* a class selector*/
+.class1
+<body>
+body{
+color: aqua
+font-family: sans-serif, fantasy;
+font-weight: 300
+}
+/* this will affect ALL h2 elements*/
+h2{
+color: blueviolet
+}
+
+/* this will affect ALL h3 elements*/
+h3{
+color: deeppink 
+}
